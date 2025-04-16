@@ -38,7 +38,9 @@ A finite state machine (FSM) model is used to design a control logic for a five-
 ---
 ### state diagram
 ----
-![FSM Diagram](gallery/fsm.png)
+![Diagram](images/diagram.png)
+
+
 
 ## 🛠 Features
 
