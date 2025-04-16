@@ -40,6 +40,7 @@ A finite state machine (FSM) model is used to design a control logic for a five-
 ----
 ![Diagram](Five-Floor-Elevator-Control-System-Using-Finite-State-Machine/diagram.png)
 
+https://github.com/nandiniyamani/Five-Floor-Elevator-Control-System-Using-Finite-State-Machine-/blob/main/diagram.png
 
 
 ## 🛠 Features
